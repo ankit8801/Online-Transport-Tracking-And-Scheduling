@@ -12,7 +12,7 @@
 
 ## Overview
 
-This project is a complete **Online Transport Tracking and Scheduling System**, fully developed by me, including **both frontend and backend**. It allows efficient bus management, real-time tracking, ticket booking, and administrative control.
+This project is a complete **Online Transport Tracking and Scheduling System**, fully developed by me(ankit jadhav), including **both frontend and backend**. It allows efficient bus management, real-time tracking, ticket booking, and administrative control.
 
 ---
 
