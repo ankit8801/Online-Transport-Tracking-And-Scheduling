@@ -96,12 +96,13 @@ Run the app:
 
 bash
 Copy code
-npm start
+npm expo start
 ⚠️ Make sure you have Expo CLI installed globally:
 
 bash
 Copy code
 npm install -g expo-cli
+
 👥 Team Contribution
 Although this was a team project, the entire frontend & backend development (APIs, UI, real-time tracking, integrations) was implemented entirely by me (Ankit Jadhav).
 
