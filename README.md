@@ -1,26 +1,24 @@
-Online Transport Tracking and Scheduling System
+🚍 Online Transport Tracking and Scheduling System
 
-Tech Stack at a Glance
+🛠️ Tech Stack at a Glance
 Layer	Technology / Tools
 Frontend	React Native, Expo, Redux, React Navigation, react-native-maps, Axios, socket.io-client
 Backend	Flask, SQLite, Socket.IO
 Additional	Google Maps API for live bus tracking
-Overview
+📖 Overview
 
 This project is a complete Online Transport Tracking and Scheduling System, fully developed by me (Ankit Jadhav), including both frontend and backend.
-It allows efficient bus management, real-time tracking, ticket booking, and administrative control.
 
-Key Features
+It enables efficient bus management, real-time tracking, ticket booking, and administrative control.
 
-Real-Time Bus Tracking: View live bus locations on a map with estimated arrival times.
+✨ Key Features
 
-Ticket Booking: Book tickets for specific routes and schedules.
+✅ Real-Time Bus Tracking: Live bus locations with ETA using Google Maps
+✅ Ticket Booking: Reserve seats for specific routes & schedules
+✅ Admin Dashboard: Manage buses, routes, schedules, and operations
+✅ Notifications: Instant alerts for arrivals, delays, or cancellations
 
-Admin Dashboard: Manage routes, schedules, and monitor system operations.
-
-Notifications: Receive alerts about bus arrivals, delays, or cancellations.
-
-Project Structure
+📂 Project Structure
 ├── backend/        # Flask backend
 │   ├── app.py      # Main server file
 │   ├── models.py   # Database models
@@ -31,8 +29,8 @@ Project Structure
 │   └── screens/    # App screens
 └── README.md       # Project documentation
 
-Installation
-Backend Setup
+⚙️ Installation
+🔹 Backend Setup
 
 Clone the repository:
 
@@ -54,9 +52,9 @@ Run the server:
 
 python manage.py runserver
 
-Frontend Setup
+🔹 Frontend Setup
 
-Navigate to the frontend directory:
+Navigate to frontend directory:
 
 cd ../frontend
 
@@ -72,7 +70,7 @@ npm install socket.io-client
 npm install axios
 
 
-Run the application:
+Run the app:
 
 npm start
 
@@ -81,17 +79,18 @@ npm start
 
 npm install -g expo-cli
 
-Team Contribution
+👥 Team Contribution
 
-This was a team project, but the entire frontend and backend development — including all core features, APIs, UI, and real-time tracking — was implemented entirely by me (Ankit Jadhav).
-Other team members contributed in areas such as conceptualization, testing, and documentation.
+Although this was a team project, the entire frontend & backend development (APIs, UI, real-time tracking, integrations) was implemented entirely by me (Ankit Jadhav).
 
-License
+Other team members helped with conceptualization, testing, and documentation.
+
+📜 License
 
 This project is licensed under the MIT License. See LICENSE
  for details.
 
-Contact
+📬 Contact
 
 👨‍💻 Developed by Ankit Jadhav
 🔗 GitHub: ankit8801
